@@ -23,7 +23,7 @@ body {
     border: 1px solid white;
   }
   
-  aside {
+  section {
     background-color: #1D88E5;
     width: 300px;
     height: 400px;
@@ -31,7 +31,7 @@ body {
     border: 1px solid white;
   }
   
-  main {
+  article {
     background-color: #1D88E5;
     width: 700px;
     height: 400px;
@@ -63,17 +63,3 @@ a {
     width: 1024px;
     margin: 0 auto;
 }
-.clearfix::after {
-    content: " ";
-    display: block;
-    clear: both;
-  }
-  
-  aside {
-    float: right;
-  }
-  
-  main {
-    float: left;
-  }
-  
