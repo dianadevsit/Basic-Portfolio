@@ -20,3 +20,9 @@ li {
 h1 {
     float: left;
 }
+text {
+    float: right;
+}
+.name {
+    float: left;
+}
