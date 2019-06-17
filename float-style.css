@@ -14,6 +14,9 @@ main {
 h3 {
     float: right;
 }
-nav {
+li {
     float: right;
+}
+h1 {
+    float: left;
 }

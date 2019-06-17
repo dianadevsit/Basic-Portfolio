@@ -15,11 +15,14 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.25em;
   }
-  nav {
-    height: 100px;
+  li {
+    height: 10px;
     padding: 10px;
     word-wrap: normal;
     display: inline-block;
+    line-height: 1px;
+    color:#1e5799;
+    border-right: 1px solid #000;
   }
   header {
     background-color: #1D88E5;
