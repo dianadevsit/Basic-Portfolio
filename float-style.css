@@ -11,3 +11,9 @@ aside {
 main {
   float: left;
 }
+h3 {
+    float: right;
+}
+nav {
+    float: right;
+}
